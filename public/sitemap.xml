@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Home Page -->
+    <url>
+        <loc>https://vbspgcollege.com/</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.00</priority>
+    </url>
+    
+    <!-- Faculty Page -->
+    <url>
+        <loc>https://vbspgcollege.com/faculty</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Exam Page -->
+    <url>
+        <loc>https://vbspgcollege.com/exam</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Notice Page -->
+    <url>
+        <loc>https://vbspgcollege.com/notice</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Courses Page -->
+    <url>
+        <loc>https://vbspgcollege.com/courses</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Recognition Page -->
+    <url>
+        <loc>https://vbspgcollege.com/recognition</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    
+    <!-- NSS Page -->
+   
+    
+    <!-- Career/Jobs Page -->
+    <url>
+        <loc>https://vbspgcollege.com/career-jobs</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://vbspgcollege.com/contact-us</loc>
+        <lastmod>2025-04-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+</urlset>

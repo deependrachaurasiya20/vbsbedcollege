@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Home Page -->
     <url>
-        <loc>https://vbspgcollege.com/</loc>
+        <loc>https://vbsbedcollege.in/</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.00</priority>
@@ -10,7 +10,7 @@
     
     <!-- Faculty Page -->
     <url>
-        <loc>https://vbspgcollege.com/faculty</loc>
+        <loc>https://vbsbedcollege.in/faculty</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.80</priority>
@@ -18,7 +18,7 @@
     
     <!-- Exam Page -->
     <url>
-        <loc>https://vbspgcollege.com/exam</loc>
+        <loc>https://vbsbedcollege.in/exam</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.80</priority>
@@ -26,7 +26,7 @@
     
     <!-- Notice Page -->
     <url>
-        <loc>https://vbspgcollege.com/notice</loc>
+        <loc>https://vbsbedcollege.in/notice</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.80</priority>
@@ -34,7 +34,7 @@
     
     <!-- Courses Page -->
     <url>
-        <loc>https://vbspgcollege.com/courses</loc>
+        <loc>https://vbsbedcollege.in/courses</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.80</priority>
@@ -42,18 +42,15 @@
     
     <!-- Recognition Page -->
     <url>
-        <loc>https://vbspgcollege.com/recognition</loc>
+        <loc>https://vbsbedcollege.in/recognition</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.70</priority>
     </url>
     
-    <!-- NSS Page -->
-   
-    
     <!-- Career/Jobs Page -->
     <url>
-        <loc>https://vbspgcollege.com/career-jobs</loc>
+        <loc>https://vbsbedcollege.in/career-jobs</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.70</priority>
@@ -61,7 +58,7 @@
     
     <!-- Contact Us Page -->
     <url>
-        <loc>https://vbspgcollege.com/contact-us</loc>
+        <loc>https://vbsbedcollege.in/contact-us</loc>
         <lastmod>2025-04-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.70</priority>
